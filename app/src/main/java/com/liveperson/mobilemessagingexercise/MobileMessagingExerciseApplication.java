@@ -1,12 +1,6 @@
 package com.liveperson.mobilemessagingexercise;
 
 import android.app.Application;
-import android.content.Intent;
-import android.support.v4.content.LocalBroadcastManager;
-import android.util.Log;
-import android.widget.Toast;
-
-import com.liveperson.api.LivePersonIntents;
 
 
 /******************************************************************
